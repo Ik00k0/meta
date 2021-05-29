@@ -1,6 +1,6 @@
 const seoDetails = {
     instagram: "",
-    email: "",
+    email: "enquires@metathemaker.com",
     twitter: "",
     phoneNumber: ""
 }
