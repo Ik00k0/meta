@@ -2,7 +2,7 @@ const seoDetails = {
     instagram: "",
     email: "",
     twitter: "",
-    phoneNumber: "07011931241"
+    phoneNumber: ""
 }
 
 export default seoDetails
