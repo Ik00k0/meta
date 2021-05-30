@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import Logo from './logo.js'
-import seoDetails from './seoDetails/seoDetails'
 
 class socialLinks extends Component {
 
